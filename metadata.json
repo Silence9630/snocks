@@ -1,0 +1,6 @@
+{
+  "name": "Snocks Stocks & Trading Board",
+  "description": "An interactive stock market dashboard and real-time portfolio trading simulator featuring detailed charts, cash management, simulated order execution, and server-side AI stock analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
